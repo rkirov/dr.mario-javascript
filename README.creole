@@ -1,0 +1,11 @@
+== Info
+[[http://en.wikipedia.org/wiki/Dr._Mario_(video_game)|Dr. Mario]] is a tetris-like game made by Nintendo.
+
+This is a javascript remake using the canvas tag (supported by all modern browsers).
+
+You can see it in action at [[http://radokirov.com/drmario/game.html]].
+
+== Future Improvements
+* sprites (graphic designers welcome)
+* better bot
+* code clean-up
