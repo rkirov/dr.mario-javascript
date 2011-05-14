@@ -1,0 +1,7 @@
+The Game  - [http://radokirov.com/drmario/game.html]http://radokirov.com/drmario/game.html)
+
+I made this game and want to share it. Not a professional developer, just seeing if I can make a whole game in JS. The game was written in 5 days incrementally adding features, no design phase. If anyone interested in extending the functionality (better bot or multiplayer using websockets), I will clean up the code. Also I can use some nice sprites.
+
+The backstory is that I visited my gf's family this Xmas and they still play this game on their NES every night. After I got destroyed many times, I decided to make a bot that would play instead of me. My rationale was that I lose because of inaccurate placement and a precise bot will defeat any human. Of course, I had to remake the game in the process. Bot is still not that good, and I have no more desire to improve it.
+
+Game is a bit hard (I tried to capture the original difficulty), dont expect nice relaxing Tetris.
